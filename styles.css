@@ -209,6 +209,7 @@ body {
   perspective: 1px;
   transform-style: preserve-3d;
   font-size: 62.5%;
+  padding-bottom: 4rem;
 }
 
 li {
