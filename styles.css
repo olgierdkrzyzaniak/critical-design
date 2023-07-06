@@ -120,7 +120,7 @@ section.section2 {
 
 .cucamber img.first {
   width: clamp(250px, 30%, 500px);
-  top: 20%;
+  top: 25%;
   left: 0;
 }
 .cucamber img.second {
