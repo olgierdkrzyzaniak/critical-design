@@ -227,3 +227,16 @@ li {
   padding-left: 2rem;
   padding-right: 2rem;
 }
+
+@media (max-width: 400px) {
+  h1 {
+    font-size: 3rem;
+  }
+  .heading h1 {
+    font-size: 3rem;
+  }
+  .banana h2 {
+    text-align: left;
+    left: 55%;
+  }
+}
